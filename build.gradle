@@ -4,7 +4,7 @@ apply plugin: 'maven'
 
 //
 
-project.group = 'mirrg'
+project.group = 'mirrg.boron'
 project.archivesBaseName = 'mirrg.boron.template'
 version = '0.0.1'
 
